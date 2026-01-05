@@ -1,3 +1,3 @@
 To use a calculator in HTML,
-Copy the html code from the main branch,
+Copy the html code from the Calculator html branch,
 Hope you like it!
